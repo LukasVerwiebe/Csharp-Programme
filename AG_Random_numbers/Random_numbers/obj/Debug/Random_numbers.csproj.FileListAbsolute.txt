@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\bin\Debug\Random_numbers.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\bin\Debug\Random_numbers.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\bin\Debug\Random_numbers.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\obj\Debug\Random_numbers.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\obj\Debug\Random_numbers.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\obj\Debug\Random_numbers.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Random_numbers\Random_numbers\obj\Debug\Random_numbers.pdb

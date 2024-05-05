@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\bin\Debug\Type_casting.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\bin\Debug\Type_casting.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\bin\Debug\Type_casting.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\obj\Debug\Type_casting.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\obj\Debug\Type_casting.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\obj\Debug\Type_casting.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Type_casting\Type_casting\obj\Debug\Type_casting.pdb

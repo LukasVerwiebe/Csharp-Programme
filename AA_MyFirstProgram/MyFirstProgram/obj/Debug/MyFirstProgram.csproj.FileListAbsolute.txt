@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb

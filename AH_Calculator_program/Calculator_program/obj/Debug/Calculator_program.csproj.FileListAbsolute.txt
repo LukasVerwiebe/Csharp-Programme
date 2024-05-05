@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\bin\Debug\Calculator_program.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\bin\Debug\Calculator_program.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\bin\Debug\Calculator_program.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\obj\Debug\Calculator_program.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\obj\Debug\Calculator_program.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\obj\Debug\Calculator_program.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Calculator_program\Calculator_program\obj\Debug\Calculator_program.pdb

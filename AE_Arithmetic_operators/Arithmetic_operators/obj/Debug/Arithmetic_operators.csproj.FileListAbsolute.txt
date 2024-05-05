@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\bin\Debug\Arithmetic_operators.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\bin\Debug\Arithmetic_operators.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\bin\Debug\Arithmetic_operators.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\obj\Debug\Arithmetic_operators.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\obj\Debug\Arithmetic_operators.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\obj\Debug\Arithmetic_operators.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Arithmetic_operators\Arithmetic_operators\obj\Debug\Arithmetic_operators.pdb

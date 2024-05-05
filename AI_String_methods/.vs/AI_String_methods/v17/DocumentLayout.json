@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ordner\\GitHub_Repositorys\\Csharp-Programme\\AI_String_methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635A6174-4295-4F48-8869-CACFE4EC4115}|AI_String_methods\\AI_String_methods.csproj|c:\\ordner\\github_repositorys\\csharp-programme\\ai_string_methods\\ai_string_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635A6174-4295-4F48-8869-CACFE4EC4115}|AI_String_methods\\AI_String_methods.csproj|solutionrelative:ai_string_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ordner\\GitHub_Repositorys\\Csharp-Programme\\AI_String_methods\\AI_String_methods\\Program.cs",
+              "RelativeDocumentMoniker": "AI_String_methods\\Program.cs",
+              "ToolTip": "C:\\Ordner\\GitHub_Repositorys\\Csharp-Programme\\AI_String_methods\\AI_String_methods\\Program.cs",
+              "RelativeToolTip": "AI_String_methods\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:32:07.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

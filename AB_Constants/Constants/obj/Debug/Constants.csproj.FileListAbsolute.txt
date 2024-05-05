@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\bin\Debug\Constants.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\bin\Debug\Constants.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\bin\Debug\Constants.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\obj\Debug\Constants.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\obj\Debug\Constants.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Constants\Constants\obj\Debug\Constants.pdb

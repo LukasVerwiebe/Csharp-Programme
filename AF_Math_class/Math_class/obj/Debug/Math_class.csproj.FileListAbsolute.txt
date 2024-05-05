@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\bin\Debug\Math_class.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\bin\Debug\Math_class.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\bin\Debug\Math_class.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\obj\Debug\Math_class.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\obj\Debug\Math_class.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\obj\Debug\Math_class.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\Math_class\Math_class\obj\Debug\Math_class.pdb

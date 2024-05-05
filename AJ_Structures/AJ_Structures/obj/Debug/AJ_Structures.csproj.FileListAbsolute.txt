@@ -1,0 +1,7 @@
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\bin\Debug\AJ_Structures.exe.config
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\bin\Debug\AJ_Structures.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\bin\Debug\AJ_Structures.pdb
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\obj\Debug\AJ_Structures.csproj.AssemblyReference.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\obj\Debug\AJ_Structures.csproj.CoreCompileInputs.cache
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\obj\Debug\AJ_Structures.exe
+C:\Ordner\GitHub_Repositorys\Csharp-Programme\AJ_Structures\AJ_Structures\obj\Debug\AJ_Structures.pdb
